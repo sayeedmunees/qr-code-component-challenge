@@ -35,7 +35,7 @@ p {
     height: 497px;
     border-radius: 20px;
     background-color: white;
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    box-shadow: 0 20px 25px rgba(0, 0, 0, 0.08);
 }
 
 #qr-container{
