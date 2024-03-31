@@ -6,3 +6,4 @@
 *.log
 /workfiles
 /design
+*.vscode
